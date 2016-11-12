@@ -20,7 +20,7 @@ var quotes = [
     "Sorry, there is no STAR on the stage tonight!",
     "My Twitter has become so powerful that I can actually make my enemies tell the truth.",
     "My IQ is one of the highest — and you all know it! Please don’t feel so stupid or insecure; it’s not your fault.",
-    "I have so many fabulous friends who happen to be gay, but I am a traditionalist.",
+    "It's like in golf. A lot of people -- I don't want this to sound trivial -- but a lot of people are switching to these really long putters, very unattractive. It's weird. You see these great players with these really long putters, because they can't sink three-footers anymore. And, I hate it. I am a traditionalist. I have so many fabulous friends who happen to be gay, but I am a traditionalist.",
     "The other candidates — they went in, they didn’t know the air conditioning didn’t work. They sweated like dogs…How are they gonna beat ISIS? I don’t think it’s gonna happen.",
     "Look at those hands, are they small hands? And, [Republican rival Marco Rubio] referred to my hands: ‘If they’re small, something else must be small.’ I guarantee you there’s no problem. I guarantee",
     "Lyin’ Ted Cruz just used a picture of Melania from a shoot in his ad. Be careful, Lyin’ Ted, or I will spill the beans on your wife!",
@@ -28,7 +28,13 @@ var quotes = [
     "The only card [Hillary Clinton] has is the woman’s card. She’s got nothing else to offer and frankly, if Hillary Clinton were a man, I don’t think she’d get 5 percent of the vote. The only thing she’s got going is the woman’s card, and the beautiful thing is, women don’t like her.",
     "Number one, I have great respect for women. I was the one that really broke the glass ceiling on behalf of women, more than anybody in the construction industry",
     "I’m just thinking to myself right now, we should just cancel the election and just give it to Trump, right?",
-    "You're fired."
+    "You're fired.",
+    "I've never had any trouble in bed, but if I'd had affairs with half the starlets and female athletes the newspapers linked me with, I'd have no time to breathe.",
+    "I love the poorly educated",
+    "Heidi Klum. Sadly, she's no longer a 10.",
+    "I am totally in favor of vaccines. But I want smaller doses over a longer period of time. Same exact amount, but you take this little beautiful baby, and you pump--I mean, it looks just like it's meant for a horse, not for a child, and we've had so many instances, people that work for me. ... [in which] a child, a beautiful child went to have the vaccine, and came back and a week later had a tremendous fever, got very, very sick, now is autistic.",
+    "Sorry losers and haters, but my I.Q. is one of the highest -and you all know it! Please don't feel so stupid or insecure, it's not your fault."
+
 ]
 
 module.exports = quotes;
