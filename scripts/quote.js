@@ -14,5 +14,8 @@ module.exports =  function(robot) {
 
     robot.respond(/cyber/, function(res) {
         res.send(res.random(cyber));
-    })
+    });
+    robot.respond(/hillary/, function(res) {
+        res.send('Did you mean Crooked Hillary? She is the devil. Unless I win. ');
+    });
 }
