@@ -5,7 +5,7 @@
 //   hubot quote - I will give you a quote
 //   hubot cyber - I will teach you cyber. My son is very very good at it.
 var quotes = require('./lib/quotes');
-
+var cyber = require('./lib/cyber');
 
 module.exports =  function(robot) {
     robot.respond(/quote/, function(res) {
